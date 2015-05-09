@@ -1,4 +1,8 @@
-# raf
+# @mattdesl/raf
+
+A fork of [raf](https://github.com/chrisdickinson/raf) that improves the debugging experience, see [#26](https://github.com/chrisdickinson/raf/issues/26).
+
+---
 
 [![Browser Support](http://ci.testling.com/chrisdickinson/raf.png)](http://ci.testling.com/chrisdickinson/raf)
 
@@ -14,6 +18,8 @@ raf(function tick() {
 ```
 
 **Note:** The stream/event emitter logic found in versions prior to 1.0.0 can be found in [raf-stream](https://www.npmjs.org/package/raf-stream).
+
+
 
 # API
 

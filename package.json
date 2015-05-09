@@ -1,5 +1,5 @@
 {
-  "name": "raf",
+  "name": "@mattdesl/raf",
   "version": "2.0.4",
   "description": "requestAnimationFrame polyfill for node and the browser",
   "main": "index.js",
