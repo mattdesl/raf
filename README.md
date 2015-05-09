@@ -8,6 +8,15 @@ A fork of [raf](https://github.com/chrisdickinson/raf) that improves the debuggi
 
 requestAnimationFrame polyfill for node and the browser.
 
+Install:
+
+```
+npm install @mattdesl/raf --save
+```
+
+
+Use:
+
 ```js
 var raf = require('raf')
 
